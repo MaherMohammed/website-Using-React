@@ -1,11 +1,9 @@
-import Header from "./Header"
-import Footer from "./Footer"
+import Card from "./Components/Card"
 
 function App() {
   return(
     <>
-      <Header/>
-      <Footer/>
+      <Card/> 
     </>
   )
 }
